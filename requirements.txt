@@ -1,0 +1,10 @@
+streamlit
+pymysql
+pymongo
+matplotlib
+seaborn
+wordcloud
+plotly
+pandas
+neo4j
+openpyxl
